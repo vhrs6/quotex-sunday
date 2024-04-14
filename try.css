@@ -1,0 +1,32 @@
+body{
+    background-color: #5BBCFF;
+}
+h1{
+    color: #141E46;
+    outline: solid #5599bb;
+    font-family: kalam
+}
+li{
+    color: #141E46;
+}
+#first{
+    background-color: #FFD1E3;
+    outline: solid#5599bb;
+    width: 60px;
+    font-size: 120%;
+    
+}
+p{
+    margin: 0;
+}
+#second{
+    color: #141E46;
+    background-color: #7EA1FF;
+    border:10px solid#141E46;
+    width: 350px;
+    margin-left:640px;
+    font-size: 250%;
+    font-family:kalam ;
+    margin-top: 20px;
+    padding: 40px;
+}
